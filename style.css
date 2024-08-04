@@ -13,6 +13,8 @@ h1 {
 
 section {
   background-color: lightblue;
+  padding-bottom: 16px;
+  margin-bottom: 10px;
 }
 
 h2 {
